@@ -1,11 +1,3 @@
-want to create a repo where i post dsa questions in python everyday create a dicription
-
-
-Deliberated repository structure for daily DSA practice problems
-Deliberated repository structure for daily DSA practice problems
-Here's a description you can use for your repo:
-
-Short version (for GitHub's "About" section):
 
 📘 Daily DSA practice in Python — solutions, explanations, and notes as I solve one problem every day to sharpen my problem-solving skills.
 
