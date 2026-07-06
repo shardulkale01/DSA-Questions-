@@ -3,7 +3,7 @@ def two_sum(nums, target):
     Given an array of integers 'nums' and an integer 'target',
     return the indices of the two numbers that add up to 'target'.
 
-    Approach: Use a hash map (dictionary) to store numbers we've
+     Use a hash map (dictionary) to store numbers we've
     already seen, along with their indices. This lets us check
     in O(1) time whether the "complement" (target - current number)
     has already appeared.
